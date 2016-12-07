@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gsp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../WBK BZ/library/gsp_java_trial_1_7_2_7/dist/gsp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
